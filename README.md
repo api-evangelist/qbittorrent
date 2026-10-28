@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-qBittorrent is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://qbittorrent.org/
+qBittorrent is an open‑source BitTorrent client written in C++/Qt that provides a feature‑rich, ad‑free, cross‑platform alternative to proprietary torrent clients. It supports full‑featured torrent management, integrated search, RSS feeds, encryption, DHT, PEX, and a web UI for remote control. The project is maintained by volunteers and released under the GPL‑3.0 license. It runs on Windows, macOS, Linux, FreeBSD and OS/2, and offers a clean UI resembling µTorrent while adding extensive configuration options and plugin support.
+
+**Areas:** torrent · client · open-source · cross-platform · Qt
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://qbittorrent.org/)
+- [Documentation](https://github.com/qbittorrent/qBittorrent)
+- [Getting started](https://www.qbittorrent.org/download)
+- [Support](https://forum.qbittorrent.org/)
+- [Blog](https://www.qbittorrent.org/news)
+- [GitHub](https://github.com/qbittorrent)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/qbittorrent/](https://apis.io/providers/qbittorrent/).
